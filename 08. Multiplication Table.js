@@ -5,4 +5,4 @@ function multiplicationTable(num) {
     }
     console.log();
 }
-multiplicationTable(2)
+multiplicationTable(5)
